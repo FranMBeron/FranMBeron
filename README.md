@@ -1,7 +1,5 @@
-<h2>Soy Francisco Beron</h2>
-<img align='right' src="https://instagram.fmdq3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/170787042_358969628770870_8402821146851830515_n.jpg?tp=1&_nc_ht=instagram.fmdq3-1.fna.fbcdn.net&_nc_ohc=W7zWjieLnD4AX_s65wm&edm=ABfd0MgBAAAA&ccb=7-4&oh=37159ed1e4cb2c2bfd5ff8bef30b9188&oe=60B23AAE&_nc_sid=7bff83" width="230">
-<p><em>Software Developer
-</em></p>
+<h2>I am Francisco Beron</h2>
+<p><em>Quality Assurance Engineer and Software Developer</em></p>
 
 [![GitHub FranMBeron](https://img.shields.io/github/followers/FranMBeron?style=social)](https://github.com/FranMBeron)
 
