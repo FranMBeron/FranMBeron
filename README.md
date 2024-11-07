@@ -6,7 +6,7 @@
 [![GitHub FranMBeron](https://img.shields.io/github/followers/FranMBeron?style=social)](https://github.com/FranMBeron)
 
 ```javascript
-const fran = {
+const Fran = {
   pronouns: "he" | "him",
   hobbies: [Formula 1, Motor Sports, football, and surf practice],
   code: [Javascript, Java, C++, HTML + CSS],
