@@ -5,10 +5,7 @@
 
 <br/>
 <a href="https:https://www.linkedin.com/in/francisco-mateo-beron-7474861b4/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/franmb16/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
 </a>
 
 [![GitHub FranMBeron](https://img.shields.io/github/followers/FranMBeron?style=social)](https://github.com/FranMBeron)
