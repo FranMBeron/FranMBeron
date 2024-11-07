@@ -3,19 +3,14 @@
 <p><em>Software Developer
 </em></p>
 
-<br/>
-<a href="https:https://www.linkedin.com/in/francisco-mateo-beron-7474861b4/">
-  <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
-</a>
-
 [![GitHub FranMBeron](https://img.shields.io/github/followers/FranMBeron?style=social)](https://github.com/FranMBeron)
 
 ```javascript
 const fran = {
   pronouns: "he" | "him",
-  hobbies: [Formula 1, Motor Sports, football and surf practice],
-  code: [Javascript, HTML, CSS, Java, C++],
-  tools: [React],
+  hobbies: [Formula 1, Motor Sports, football, and surf practice],
+  code: [Javascript, Java, C++, HTML + CSS],
+  Frameworks & Libraries: [React, Selenium WebDriver, Cucumber, Gradle]
 }
 ```
 
