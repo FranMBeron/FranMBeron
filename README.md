@@ -1,5 +1,5 @@
 <h2>I am Francisco Beron</h2>
-<p><em>Quality Assurance Engineer and Software Developer</em></p>
+<p><em>Software Engineer</em></p>
 
 [![GitHub FranMBeron](https://img.shields.io/github/followers/FranMBeron?style=social)](https://github.com/FranMBeron)
 
