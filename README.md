@@ -6,7 +6,7 @@
 ```javascript
 const Fran = {
   pronouns: "he" | "him",
-  hobbies: [Formula 1, Motor Sports, football, and surf practice],
+  hobbies: [Formula 1 & Motor Sports, football, Economics enthusiast],
   code: [Typescript, Javascript, Java, C++],
   Frameworks & Libraries: [Playwright, Selenium WebDriver]
 }
