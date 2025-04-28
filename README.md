@@ -7,7 +7,7 @@
 const Fran = {
   pronouns: "he" | "him",
   hobbies: [Formula 1, Motor Sports, football, and surf practice],
-  code: [Javascript, Java, C++, HTML + CSS],
+  code: [Typescript, Javascript, Java, C++],
   Frameworks & Libraries: [Playwright, Selenium WebDriver]
 }
 ```
