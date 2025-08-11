@@ -1,32 +1,19 @@
-<h2>I am Francisco Beron</h2>
-<p><em>Software Engineer</em></p>
+# 👋 Hey, I'm Fran
 
-[![GitHub FranMBeron](https://img.shields.io/github/followers/FranMBeron?style=social)](https://github.com/FranMBeron)
-
-```javascript
-const Fran = {
-  pronouns: "he" | "him",
-  hobbies: [Formula 1 & Motor Sports, football, Economics enthusiast],
-  code: [Typescript, Javascript, Java, C++],
-  Frameworks & Libraries: [Playwright, Selenium WebDriver]
-}
-```
+💻 **Software Engineer / Programmer**  
+I design and build tools, tests, and apps that bridge quality and performance, combining QA automation expertise with full-stack development skills.  
+Currently exploring *Advanced Programming* with [CodeCrafters](https://codecrafters.io).
 
 ---
 
-From [@FranMBeron](https://github.com/FranMBeron)
+## 🔬 Labs & Organizations
 
-<!--
-**FranMBeron/FranMBeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To better navigate my work, I organize it in some labs inside GitHub Organizations, where you can find all my repos about web apps, systems, and others. 
 
-Here are some ideas to get you started:
+- 🧪 **[Web Lab](https://github.com/fran-weblab)** → Full-stack apps (Laravel, Node, React, Next.js, etc.)
+- 🛠 **[CodeCrafters Lab](https://github.com/fran-codecrafters)** → Systems from scratch in Go, Rust, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/francisco-mateo-beron/) · [Personal Site](franciscoberon.com)
+
