@@ -11,7 +11,7 @@ Currently exploring *Advanced Programming* with [CodeCrafters](https://codecraft
 To better navigate my work, I organize it in some labs inside GitHub Organizations, where you can find all my repos about web apps, systems, and others. 
 
 - 🧪 **[Web Lab](https://github.com/fran-weblab)** → Full-stack apps (Laravel, Node, React, Next.js, etc.)
-- 🛠 **[CodeCrafters Lab](https://github.com/fran-codecrafters)** → Systems from scratch in Go, Rust, Python
+- 🛠 **[CodeCrafters Lab](https://github.com/fran-codecrafters)** → Systems from scratch in Typescript and Go
 
 ---
 
