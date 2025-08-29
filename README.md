@@ -1,5 +1,3 @@
-# 👋 Hey, I'm Fran
-
 💻 **Software Engineer / Programmer**  
 I design and build tools, tests, and apps that bridge quality and performance, combining QA automation expertise with full-stack development skills.  
 Currently exploring *Advanced Programming* with [CodeCrafters](https://codecrafters.io).
