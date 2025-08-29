@@ -1,10 +1,10 @@
-💻 **Software Engineer / Programmer**  
+**Software Engineer / Programmer**  
 I design and build tools, tests, and apps that bridge quality and performance, combining QA automation expertise with full-stack development skills.  
 Currently exploring *Advanced Programming* with [CodeCrafters](https://codecrafters.io).
 
 ---
 
-## 🔬 Labs & Organizations
+## Labs & Organizations
 
 To better navigate my work, I organize it in some labs inside GitHub Organizations, where you can find all my repos about web apps, systems, and others. 
 
