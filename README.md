@@ -1,7 +1,9 @@
 **Software Engineer / Programmer**  
 I love rebuilding systems and web applications from scratch.
-Currently exploring *Advanced Programming* with [CodeCrafters](https://codecrafters.io).
-Also, starting to save Computer Science Notes that I write when I learn a new subject (You can check it in CS-Fran-Notes repo pinned)
+
+I am currently starting to save Computer Science Notes that I write when I learn a new subject (you can check the CS-Fran-Notes repo, which is pinned).
+
+Also exploring *Advanced Programming* with [CodeCrafters](https://codecrafters.io).
 
 ---
 
